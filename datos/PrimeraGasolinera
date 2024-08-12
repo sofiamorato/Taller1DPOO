@@ -1,0 +1,13 @@
+tipo:Gasolina Magna:22000:10000.0
+tipo:Gasolina Corriente:15900:48000.0
+tipo:Gasolina Premium:19700:30000.0
+tipo:Diesel:17500:25000.0
+surtidor:Laura:Gasolina Magna:0.0:Gasolina Corriente:0.0:Gasolina Premium:0.0:Diesel:0.0
+surtidor:Laura:Gasolina Magna:0.0:Gasolina Corriente:0.0:Gasolina Premium:0.0:Diesel:0.0
+surtidor:Maria Alejandra:Gasolina Magna:0.0:Gasolina Corriente:0.0:Gasolina Premium:0.0:Diesel:0.0
+surtidor:Sofia:Gasolina Magna:0.0:Gasolina Corriente:0.0:Gasolina Premium:0.0:Diesel:0.0
+empleado:Laura:0
+empleado:Mariana:0
+empleado:Sofia:0
+empleado:Maria Alejandra:0
+empleado:Andrea:0
